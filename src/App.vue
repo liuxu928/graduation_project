@@ -1,4 +1,6 @@
-<template>APP</template>
+<template>
+  <router-view></router-view>
+</template>
 
 <style lang="less">
   #app {
